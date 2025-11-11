@@ -1,0 +1,13 @@
+{
+  "banned_logos": [],
+  "style": {
+    "palette": "blue-white",
+    "subtitle": {
+      "font": "Noto Sans SC",
+      "size": 36
+    }
+  },
+  "math_templates": {
+    "scaled_dot": "softmax(QK^T/\\sqrt{d})V"
+  }
+}
